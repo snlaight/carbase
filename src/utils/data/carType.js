@@ -1,0 +1,32 @@
+export const fuelType = [
+  'Petrol',
+  'Diesel',
+  'Hybrid',
+  'Petrol',
+  'Diesel',
+  'Petrol',
+  'Hybrid',
+  'Hybrid',
+  'Diesel',
+  'Hybrid',
+  'Petrol',
+  'Diesel',
+];
+
+export const driveType = [
+  'Manual',
+  'Automatic',
+  'Manual',
+  'Automatic',
+  'Manual',
+  'Automatic',
+  'Automatic',
+  'Automatic',
+  'Automatic',
+  'Automatic',
+  'Manual',
+  'Automatic',
+  'Manual',
+  'Automatic',
+  'Manual',
+];
